@@ -20,8 +20,8 @@
 <a href="https://linkedin.com/in/yashraj-bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashraj-bhosale" height="30" width="40" /></a>
 <a href="https://kaggle.com/yashrajbhosale32424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashrajbhosale32424" height="30" width="40" /></a>
 <a href="https://fb.com/yashraj.bhosale.3152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashraj.bhosale.3152" height="30" width="40" /></a>
-<a href="https://instagram.com/its_yash.2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_yash.2004/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@yashraj_bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yashraj_bhosale" height="30" width="40" /></a>
+<a href="https://instagram.com/its_y.ash.2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_yash.2004/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YashrajMBhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yashraj_bhosale" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashrajbhosale11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashrajbhosale11" height="30" width="40" /></a>
 </p>
 
